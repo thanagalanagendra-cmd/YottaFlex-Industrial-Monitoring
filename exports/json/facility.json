@@ -1,0 +1,20 @@
+[
+    {
+        "facility_id":"FAC-001",
+        "facility_name":"Central Water Plant",
+        "location":"Hyderabad",
+        "status":"ACTIVE"
+    },
+    {
+        "facility_id":"FAC-002",
+        "facility_name":"North Water Plant",
+        "location":"Vijayawada",
+        "status":"ACTIVE"
+    },
+    {
+        "facility_id":"FAC-003",
+        "facility_name":"South Water Plant",
+        "location":"Rajahmundry",
+        "status":"ACTIVE"
+    }
+]

@@ -1,0 +1,5 @@
+truth_id,equipment_id,anomaly_type,expected_condition,telemetry_reference,description,created_at
+GT-001,PUMP-001,PUMP_DEGRADATION,ANOMALY,1,Pump flow was deliberately reduced to 20.,2026-10-22T00:00:00
+GT-002,PUMP-002,PRESSURE_ANOMALY,ANOMALY,2311,Pump pressure was deliberately increased to 8.5 bar.,2026-10-22T00:00:00
+GT-003,TANK-001,SENSOR_FAULT,ANOMALY,30791,Tank level reading was deliberately increased to 120 percent.,2026-10-22T00:00:00
+GT-004,TANK-002,LEAK_INDICATION,ANOMALY,32328,Tank level was deliberately reduced to 5 percent.,2026-10-27T08:00:00

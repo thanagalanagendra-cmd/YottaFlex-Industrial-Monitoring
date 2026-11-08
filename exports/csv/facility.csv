@@ -1,0 +1,4 @@
+facility_id,facility_name,location,status
+FAC-001,Central Water Plant,Hyderabad,ACTIVE
+FAC-002,North Water Plant,Vijayawada,ACTIVE
+FAC-003,South Water Plant,Rajahmundry,ACTIVE

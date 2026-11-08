@@ -1,0 +1,68 @@
+[
+    {
+        "table": "alarm",
+        "row_count": 4,
+        "csv_file": "exports\\csv\\alarm.csv",
+        "json_file": "exports\\json\\alarm.json"
+    },
+    {
+        "table": "facility",
+        "row_count": 3,
+        "csv_file": "exports\\csv\\facility.csv",
+        "json_file": "exports\\json\\facility.json"
+    },
+    {
+        "table": "ground_truth",
+        "row_count": 4,
+        "csv_file": "exports\\csv\\ground_truth.csv",
+        "json_file": "exports\\json\\ground_truth.json"
+    },
+    {
+        "table": "operating_mode",
+        "row_count": 6,
+        "csv_file": "exports\\csv\\operating_mode.csv",
+        "json_file": "exports\\json\\operating_mode.json"
+    },
+    {
+        "table": "pipe",
+        "row_count": 40,
+        "csv_file": "exports\\csv\\pipe.csv",
+        "json_file": "exports\\json\\pipe.json"
+    },
+    {
+        "table": "pump",
+        "row_count": 20,
+        "csv_file": "exports\\csv\\pump.csv",
+        "json_file": "exports\\json\\pump.json"
+    },
+    {
+        "table": "sensor",
+        "row_count": 130,
+        "csv_file": "exports\\csv\\sensor.csv",
+        "json_file": "exports\\json\\sensor.json"
+    },
+    {
+        "table": "simulation_run",
+        "row_count": 1,
+        "csv_file": "exports\\csv\\simulation_run.csv",
+        "json_file": "exports\\json\\simulation_run.json"
+    },
+    {
+        "table": "tank",
+        "row_count": 30,
+        "csv_file": "exports\\csv\\tank.csv",
+        "json_file": "exports\\json\\tank.json"
+    },
+    {
+        "table": "telemetry",
+        "row_count": 100000,
+        "csv_file": "exports\\csv\\telemetry.csv",
+        "json_file": "exports\\json\\telemetry.json"
+    },
+    {
+        "table": "valve",
+        "row_count": 60,
+        "csv_file": "exports\\csv\\valve.csv",
+        "json_file": "exports\\json\\valve.json"
+    }
+]

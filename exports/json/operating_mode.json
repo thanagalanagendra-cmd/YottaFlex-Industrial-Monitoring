@@ -1,0 +1,44 @@
+[
+    {
+        "mode_id":"MODE-001",
+        "facility_id":"FAC-001",
+        "mode_name":"NORMAL",
+        "effective_from":"2026-10-22 00:00:00",
+        "effective_to":null
+    },
+    {
+        "mode_id":"MODE-002",
+        "facility_id":"FAC-001",
+        "mode_name":"MAINTENANCE",
+        "effective_from":"2026-10-25 00:00:00",
+        "effective_to":null
+    },
+    {
+        "mode_id":"MODE-003",
+        "facility_id":"FAC-002",
+        "mode_name":"NORMAL",
+        "effective_from":"2026-10-22 00:00:00",
+        "effective_to":null
+    },
+    {
+        "mode_id":"MODE-004",
+        "facility_id":"FAC-002",
+        "mode_name":"HIGH_DEMAND",
+        "effective_from":"2026-10-27 00:00:00",
+        "effective_to":null
+    },
+    {
+        "mode_id":"MODE-005",
+        "facility_id":"FAC-003",
+        "mode_name":"NORMAL",
+        "effective_from":"2026-10-22 00:00:00",
+        "effective_to":null
+    },
+    {
+        "mode_id":"MODE-006",
+        "facility_id":"FAC-003",
+        "mode_name":"LOW_DEMAND",
+        "effective_from":"2026-10-29 00:00:00",
+        "effective_to":null
+    }
+]

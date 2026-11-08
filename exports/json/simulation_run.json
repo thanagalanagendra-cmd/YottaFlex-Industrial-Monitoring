@@ -1,0 +1,10 @@
+[
+    {
+        "simulation_id":"SIM-2026-000001",
+        "facility_id":"FAC-001",
+        "mode_id":"MODE-001",
+        "configuration":"{\"input\": {\"pump_id\": \"PUMP-001\", \"flow_multiplier\": 1.2, \"nominal_flow\": 117.97, \"valve_id\": \"VALVE-001\", \"valve_state\": \"CLOSED\"}, \"output\": {\"predicted_flow\": 141.56, \"effective_flow\": 0, \"result\": \"FLOW_BLOCKED_BY_CLOSED_VALVE\"}}",
+        "run_status":"COMPLETED",
+        "created_at":"2026-11-06T12:56:37.860653"
+    }
+]

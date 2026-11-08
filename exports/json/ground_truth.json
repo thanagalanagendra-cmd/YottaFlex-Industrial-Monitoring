@@ -1,0 +1,38 @@
+[
+    {
+        "truth_id":"GT-001",
+        "equipment_id":"PUMP-001",
+        "anomaly_type":"PUMP_DEGRADATION",
+        "expected_condition":"ANOMALY",
+        "telemetry_reference":"1",
+        "description":"Pump flow was deliberately reduced to 20.",
+        "created_at":"2026-10-22T00:00:00"
+    },
+    {
+        "truth_id":"GT-002",
+        "equipment_id":"PUMP-002",
+        "anomaly_type":"PRESSURE_ANOMALY",
+        "expected_condition":"ANOMALY",
+        "telemetry_reference":"2311",
+        "description":"Pump pressure was deliberately increased to 8.5 bar.",
+        "created_at":"2026-10-22T00:00:00"
+    },
+    {
+        "truth_id":"GT-003",
+        "equipment_id":"TANK-001",
+        "anomaly_type":"SENSOR_FAULT",
+        "expected_condition":"ANOMALY",
+        "telemetry_reference":"30791",
+        "description":"Tank level reading was deliberately increased to 120 percent.",
+        "created_at":"2026-10-22T00:00:00"
+    },
+    {
+        "truth_id":"GT-004",
+        "equipment_id":"TANK-002",
+        "anomaly_type":"LEAK_INDICATION",
+        "expected_condition":"ANOMALY",
+        "telemetry_reference":"32328",
+        "description":"Tank level was deliberately reduced to 5 percent.",
+        "created_at":"2026-10-27T08:00:00"
+    }
+]
